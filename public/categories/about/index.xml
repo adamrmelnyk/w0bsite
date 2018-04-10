@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Adam Melnyk</title>
+    <link>http://adammelnyk.ca/categories/about/</link>
+    <description>Recent content in About on Adam Melnyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://adammelnyk.ca/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://adammelnyk.ca/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://adammelnyk.ca/about/</guid>
+      <description>Adam is a Canadian software engineer from Edmonton Alberta, residing in Austin Texas. Adams hobbies include functional programming, powerlifting, eating copious amounts of greek yogurt, and looking for the perfect breakfast taco.</description>
+    </item>
+    
+  </channel>
+</rss>
