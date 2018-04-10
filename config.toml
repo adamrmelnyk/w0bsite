@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://adammelnyk.ca/" 
+baseurl = "http://adammelnyk.ca/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
