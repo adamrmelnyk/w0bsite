@@ -21,7 +21,7 @@ a:link
 }
 body
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 20px;
     font-weight: 400;
 
@@ -52,7 +52,7 @@ html
 .author h6,
 .author p
 {
-    font-family: 'monospace', serif;
+    font-family: 'Lucida Console', monospace, serif;
 }
 .category
 {
@@ -72,7 +72,7 @@ html
 }
 div.content
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 18px;
     font-weight: 300;
 
@@ -80,19 +80,19 @@ div.content
 }
 .copyright
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 12px;
     font-weight: 200;
 }
 .description
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-weight: 200;
     color: #00FF00;
 }
 .error
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
 
     margin-top: 100px;
 }
@@ -110,7 +110,7 @@ div.content
 }
 .excerpt
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 18px;
     font-weight: 200;
 
@@ -140,7 +140,7 @@ div.content
 }
 .intro
 {
-    font-family: 'monospace', serif;
+    font-family: 'Lucida Console', monospace, serif;
     font-weight: 200;
     color: #00FF00;
 }
@@ -150,7 +150,7 @@ h3.intro
 }
 .list
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
 
     margin-top: 50px;
 }
@@ -160,7 +160,7 @@ h3.intro
 }
 .list-entry
 {
-    font-family: 'monospace', serif;
+    font-family: 'Lucida Console', monospace, serif;
     font-size: 25px;
     font-weight: 400;
 
@@ -183,7 +183,7 @@ h3.intro
 }
 .menu-item
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 20px;
     font-weight: 300;
 
@@ -193,7 +193,7 @@ h3.intro
 }
 .meta
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 12px;
     font-weight: 200;
 
@@ -205,7 +205,7 @@ a.meta
 }
 h6.meta
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 12px;
     font-weight: 200;
 
@@ -216,7 +216,7 @@ section.meta {
 }
 .powered
 {
-    font-family: 'monospace', sans-serif;
+    font-family: 'Lucida Console', monospace, sans-serif;
     font-size: 12px;
     font-weight: 300;
 }
@@ -231,7 +231,7 @@ section.meta {
 }
 .title
 {
-    font-family: 'monospace', serif;
+    font-family: 'Lucida Console', monospace, serif;
     font-weight: 400;
 
     color: #00FF00;
@@ -250,7 +250,7 @@ header.title
     }
     .list
     {
-        font-family: 'monospace', sans-serif;
+        font-family: 'Lucida Console', monospace, sans-serif;
 
         margin-top: 30px;
     }
