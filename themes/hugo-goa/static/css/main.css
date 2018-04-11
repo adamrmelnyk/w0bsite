@@ -1,0 +1,262 @@
+@-ms-viewport
+{
+    width: device-width;
+}
+@-o-viewport
+{
+    width: device-width;
+}
+@viewport
+{
+    width: device-width;
+}
+a,
+a:hover,
+a:visited,
+a:link
+{
+    text-decoration: none;
+
+    color: #00FF00;
+}
+body
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+
+    width: auto;
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+
+    background-color: #000000;
+}
+html
+{
+    position: relative;
+
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+.author
+{
+    color: #00FF00;
+}
+.author h1,
+.author h2,
+.author h3,
+.author h4,
+.author h5,
+.author h6,
+.author p
+{
+    font-family: 'Lucida Console', monospace, serif;
+}
+.category
+{
+    color: #00FF00 !important;
+}
+.container
+{
+    overflow: auto;
+
+    max-width: 680px;
+    padding: 0 15px;
+}
+.content
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+div.content
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+
+    color: #00FF00;
+}
+.copyright
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+}
+.description
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-weight: 200;
+    color: #00FF00;
+}
+.error
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+
+    margin-top: 100px;
+}
+.error h1
+{
+    font-size: 80px;
+
+    color: #00FF00;
+}
+.error p
+{
+    margin-top: 150px;
+
+    color: #00FF00;
+}
+.excerpt
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+
+    color: #555;
+    margin-bottom: 20px;
+}
+.footer
+{
+    margin-top: 10px;
+
+    color: #00FF00;
+}
+.header
+{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.headshot
+{
+    width: 200px;
+    height: 200px;
+}
+.info
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.intro
+{
+    font-family: 'Lucida Console', monospace, serif;
+    font-weight: 200;
+    color: #00FF00;
+}
+h3.intro
+{
+    margin-top: 0px
+}
+.list
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+
+    margin-top: 50px;
+}
+.list li
+{
+    list-style: none;
+}
+.list-entry
+{
+    font-family: 'Lucida Console', monospace, serif;
+    font-size: 25px;
+    font-weight: 400;
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.list-entry-link
+{
+    padding: 0;
+}
+.main-menu
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.menu
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.menu-item
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+
+    text-decoration: none;
+
+    color: #00FF00 !important;
+}
+.meta
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+
+    color: #00FF00;
+}
+a.meta
+{
+    color: #00FF00;
+}
+h6.meta
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+
+    color: #00FF00;
+}
+section.meta {
+    margin-top: 
+}
+.powered
+{
+    font-family: 'Lucida Console', monospace, sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+}
+.social {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.social,
+.social a
+{
+    color: #00FF00;
+}
+.title
+{
+    font-family: 'Lucida Console', monospace, serif;
+    font-weight: 400;
+
+    color: #00FF00;
+}
+header.title
+{
+    margin-top: 50px;
+    padding: 0 15px;
+}
+@media (max-width: 991px)
+{
+    .header
+    {
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    .list
+    {
+        font-family: 'Lucida Console', monospace, sans-serif;
+
+        margin-top: 30px;
+    }
+}
+pre > code {
+    white-space: pre;
+    word-wrap: initial;
+    word-break: initial;
+}
