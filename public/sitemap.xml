@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://adammelnyk.ca/tags/about/</loc>
+    <loc>https://adammelnyk.ca/tags/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adammelnyk.ca/categories/about/</loc>
+    <loc>https://adammelnyk.ca/categories/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adammelnyk.ca/about/</loc>
+    <loc>https://adammelnyk.ca/about/</loc>
   </url>
   
   <url>
-    <loc>http://adammelnyk.ca/</loc>
+    <loc>https://adammelnyk.ca/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adammelnyk.ca/categories/</loc>
+    <loc>https://adammelnyk.ca/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adammelnyk.ca/tags/</loc>
+    <loc>https://adammelnyk.ca/tags/</loc>
     <priority>0</priority>
   </url>
   

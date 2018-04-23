@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://adammelnyk.ca/"
+baseurl = "https://adammelnyk.ca/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -48,7 +48,7 @@ highlightjs = true
     name = "blog"
     weight = 100
     identifier = "blog"
-    url = "http://arm64.ca"
+    url = "https://arm64.ca"
 [[menu.main]]
     name = "about"
     identifier = "about"
