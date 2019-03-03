@@ -33,9 +33,8 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "adamrmelnyk"
-instagram = "armsixtyfour"
 linkedin = "adamrmelnyk"
-email = "adam.melnyk@gmail.com"
+email = "adam@adammelnyk.ca"
 
 ## Extras
 [params.extra]
