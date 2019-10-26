@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Melnyk</title>
@@ -6,9 +6,29 @@
     <description>Recent content on Adam Melnyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Sat, 26 Oct 2019 12:16:05 +0000</lastBuildDate>
     
 	<atom:link href="https://adammelnyk.ca/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Following</title>
+      <link>https://adammelnyk.ca/following/</link>
+      <pubDate>Sat, 26 Oct 2019 12:16:05 +0000</pubDate>
+      
+      <guid>https://adammelnyk.ca/following/</guid>
+      <description>Here&amp;rsquo;s a list of other blogs that I&amp;rsquo;ve been following for a while or just think are cool.
+ Julia Evans https://jvns.ca/  An Awesome software developer who always seems to be working on something cool.  The Musings of an Optimist https://ebzzry.io/eo/  A great blog on lisp and other things that&amp;rsquo;s also translated into Esperanto including a great explanation of the Y Combinator  Steve Klabnik https://words.steveklabnik.com/  A great blog on rust and many other things.</description>
+    </item>
+    
+    <item>
+      <title>Uses</title>
+      <link>https://adammelnyk.ca/uses/</link>
+      <pubDate>Sat, 26 Oct 2019 12:16:05 +0000</pubDate>
+      
+      <guid>https://adammelnyk.ca/uses/</guid>
+      <description>Hardware I use  At home I use a Dell XPS 13 Developer Edition running Ubuntu. I use a Dell Ultrasharp 34 monitor. I have two Raspberry Pi&amp;rsquo;s. I have a pair of Sony MDR7506&amp;rsquo;s that I&amp;rsquo;ve been using for about ten years. CODE WASD keyboard.  Software I use  IntelliJ for Java, Vim, VSCode for almost everything else. I use Spotify for music. I use FireFox for web browsing.</description>
+    </item>
     
     <item>
       <title>About</title>

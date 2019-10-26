@@ -44,12 +44,22 @@ highlightjs = true
 
 # Main Menu
 [[menu.main]]
-    name = "blog"
+    name = "Blog"
     weight = 100
     identifier = "blog"
     url = "https://arm64.ca"
 [[menu.main]]
-    name = "about"
+    name = "About"
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name= "Uses"
+    identifier = "uses"
+    weight = 200
+    url = "uses"
+[[menu.main]]
+    name = "Blogs I Follow"
+    identifier = "following"
+    weight = 200
+    url = "/following/"
