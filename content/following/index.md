@@ -18,3 +18,5 @@ Here's a list of other blogs that I've been following for a while or just think 
   * A great blog on lisp and other things that's also translated into Esperanto including a great explanation of the <u>[Y Combinator](https://ebzzry.io/en/y/)</u>
 * <u>[Steve Klabnik https://words.steveklabnik.com/](https://words.steveklabnik.com/)</u>
   * A great blog on rust and many other things.
+* <u>[Use this https://usesthis.com/](https://usesthis.com/)</u>
+  * A cool blog if your interested in what tools developers and artists are using. It's also the inspiration for my uses page!
