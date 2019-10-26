@@ -19,4 +19,4 @@ Here's a list of other blogs that I've been following for a while or just think 
 * <u>[Steve Klabnik https://words.steveklabnik.com/](https://words.steveklabnik.com/)</u>
   * A great blog on rust and many other things.
 * <u>[Use this https://usesthis.com/](https://usesthis.com/)</u>
-  * A cool blog if your interested in what tools developers and artists are using. It's also the inspiration for my uses page!
+  * A cool blog if you're interested in what tools developers and artists are using. It's also the inspiration for my uses page!
