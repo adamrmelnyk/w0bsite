@@ -22,4 +22,5 @@ Here's a list of other blogs that I've been following for a while or just think 
   * A cool blog if you're interested in what tools developers and artists are using. It's also the inspiration for my uses page!
 * <u>[Paul Graham http://paulgraham.com/index.html](http://paulgraham.com/index.html)</u>
   * A collection of Essays from Paul Graham. He doesn't blog nearly as much as he used to but, there are a lot of interesting essays that I've read many times over.
-  
+* <u>[Coding Horror https://blog.codinghorror.com](https://blog.codinghorror.com)</u>
+  *  Jeff Atwood's blog, founder of Stackoverflow.
