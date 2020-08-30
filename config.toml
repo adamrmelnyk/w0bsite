@@ -21,14 +21,14 @@ enableRobotsTXT = true
 [params]
 author = "Adam Melnyk"
 intro = "Software Engineer"
-description = "Software Engineer @HomeAway"
+description = "Software Engineer @VRBO"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Adam's webpage"
+keywords = "personal,website,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
@@ -38,7 +38,7 @@ email = "adam@adammelnyk.ca"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. Adam Melnyk. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2020. Adam Melnyk. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 
