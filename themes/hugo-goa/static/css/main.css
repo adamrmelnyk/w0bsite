@@ -17,7 +17,7 @@ a:link
 {
     text-decoration: none;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 body
 {
@@ -30,7 +30,7 @@ body
     min-height: 100%;
     margin: 0;
 
-    background-color: #000000;
+    background-color: #1f222a;
 }
 html
 {
@@ -42,7 +42,7 @@ html
 }
 .author
 {
-    color: #00FF00;
+    color: #78e2a0;
 }
 .author h1,
 .author h2,
@@ -56,7 +56,7 @@ html
 }
 .category
 {
-    color: #00FF00 !important;
+    color: #78e2a0 !important;
 }
 .container
 {
@@ -76,7 +76,7 @@ div.content
     font-size: 18px;
     font-weight: 300;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 .copyright
 {
@@ -88,7 +88,7 @@ div.content
 {
     font-family: 'Lucida Console', monospace, sans-serif;
     font-weight: 200;
-    color: #00FF00;
+    color: #78e2a0;
 }
 .error
 {
@@ -100,13 +100,13 @@ div.content
 {
     font-size: 80px;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 .error p
 {
     margin-top: 150px;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 .excerpt
 {
@@ -121,7 +121,7 @@ div.content
 {
     margin-top: 10px;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 .header
 {
@@ -142,7 +142,7 @@ div.content
 {
     font-family: 'Lucida Console', monospace, serif;
     font-weight: 200;
-    color: #00FF00;
+    color: #78e2a0;
 }
 h3.intro
 {
@@ -189,7 +189,7 @@ h3.intro
 
     text-decoration: none;
 
-    color: #00FF00 !important;
+    color: #78e2a0 !important;
 }
 .meta
 {
@@ -197,11 +197,11 @@ h3.intro
     font-size: 12px;
     font-weight: 200;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 a.meta
 {
-    color: #00FF00;
+    color: #78e2a0;
 }
 h6.meta
 {
@@ -209,7 +209,7 @@ h6.meta
     font-size: 12px;
     font-weight: 200;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 section.meta {
     margin-top: 
@@ -227,14 +227,14 @@ section.meta {
 .social,
 .social a
 {
-    color: #00FF00;
+    color: #78e2a0;
 }
 .title
 {
     font-family: 'Lucida Console', monospace, serif;
     font-weight: 400;
 
-    color: #00FF00;
+    color: #78e2a0;
 }
 header.title
 {
