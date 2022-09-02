@@ -63,3 +63,8 @@ highlightjs = true
     identifier = "following"
     weight = 200
     url = "/following/"
+[[menu.main]]
+    name = "Résumé"
+    identifier = "resume"
+    weight = 200
+    url = "https://github.com/adamrmelnyk/Resume/blob/master/resume.pdf"
