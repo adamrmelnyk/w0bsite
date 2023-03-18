@@ -24,3 +24,5 @@ Here's a list of other blogs that I've been following for a while or just think 
   * A collection of Essays from Paul Graham. He doesn't blog nearly as much as he used to but, there are a lot of interesting essays that I've read many times over.
 * <u>[Coding Horror https://blog.codinghorror.com](https://blog.codinghorror.com)</u>
   *  Jeff Atwood's blog, founder of Stackoverflow.
+* <u>[Austin Henley https://austinhenley.com/blog.html](https://austinhenley.com/blog.html)</u>
+  * Former Professor at University of Tennessee
